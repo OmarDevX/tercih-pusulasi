@@ -1,0 +1,1 @@
+{"status":"blocked","host":"0.0.8.26","reason":"not_allowed","decision":"deny","source":"decider","protocol":"http","port":80,"message":"Domain not in allowlist."}
